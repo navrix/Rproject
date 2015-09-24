@@ -1,3 +1,3 @@
 # this is a test script 
 a <- rnorm(100) ;
-plot(a) ;
+plot(a, xlim(-2,2) ;
